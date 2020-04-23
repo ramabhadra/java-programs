@@ -1,4 +1,4 @@
-package com.bhadra.java.samples.file.datacompare;
+package com.bhadra.file.datacompare;
 
 import java.io.File;
 import java.util.Comparator;
